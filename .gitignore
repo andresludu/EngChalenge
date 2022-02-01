@@ -1,0 +1,13 @@
+obj
+bin
+/Indusplast.Prestador.Application/obj
+/Indusplast.Prestador.Application/bin
+/Indusplast.Prestador.Domain/obj
+/Indusplast.Prestador.Domain/bin
+/Indusplast.Prestador.Infraestructure/obj
+/Indusplast.Prestador.Infraestructure/bin
+/Indusplast.Prestador.API/obj
+/Indusplast.Prestador.API/bin
+/.vs/Eng/config/applicationhost.config
+/.vs/Eng/v16/.suo
+.vs/
