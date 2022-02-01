@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Eng.Service</AssemblyName>
+    <RootNamespace>Eng.Service</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Primitives" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eng.Data\Eng.Data.csproj" />
+    <ProjectReference Include="..\Eng.Shared\Eng.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
